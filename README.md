@@ -6,7 +6,7 @@ This project performs Exploratory Data Analysis (EDA) on a diabetes dataset. It 
 
 ## Dataset
 
-The dataset used in this project is the [Diabetes Dataset from Kaggle](https://www.kaggle.com/datasets/datasets/datasets). The dataset contains various health indicators and binary labels indicating the presence or absence of diabetes.
+The dataset used in this project is the Diabetes Dataset from Kaggle. The dataset contains various health indicators and binary labels indicating the presence or absence of diabetes.
 
 ## Project Structure
 
@@ -28,9 +28,8 @@ Key findings include insights into how features like BMI, Glucose levels, and Ag
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/sarahhwaeel/-EDA-on-the-Diabetes-Dataset.git
 
-   ## License
-
+  ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
