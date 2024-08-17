@@ -13,9 +13,24 @@ The dataset used in this project is the [Diabetes Dataset from Kaggle](https://w
 - `(EDA)_on_the_Diabetes_Dataset.ipynb`: The main Jupyter notebook containing the analysis, including data loading, cleaning, visualization, and statistical analysis.
 - `data/`:(https://www.kaggle.com/code/alexteboul/diabetes-health-indicators-dataset-notebook)
 - `results/`: Directory for saving results such as plots and output files (if applicable).
+- ## Results
+
+The analysis includes:
+- **Data Cleaning:** Handling missing values and preparing the data for analysis.
+- **Correlation Heatmap:** Shows the relationships between different features in the dataset.
+- **Pair Plot:** Visualizes the pairwise relationships between selected features and the diabetes label.
+- **PCA Analysis:** Reduces the dimensionality of the dataset and visualizes the data in 2D space to identify patterns.
+
+Key findings include insights into how features like BMI, Glucose levels, and Age relate to the likelihood of diabetes.
+
 
 ## Installation
 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/yourusername/your-repository.git
+
+   ## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
