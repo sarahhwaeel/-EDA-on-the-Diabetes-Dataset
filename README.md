@@ -12,7 +12,7 @@ The dataset used in this project is the Diabetes Dataset from Kaggle. The datase
 
 - `(EDA)_on_the_Diabetes_Dataset.ipynb`: The main Jupyter notebook containing the analysis, including data loading, cleaning, visualization, and statistical analysis.
 - `data/`:(https://www.kaggle.com/code/alexteboul/diabetes-health-indicators-dataset-notebook)
-- `results/`: Directory for saving results such as plots and output files (if applicable).
+- `results/`: images/images
 - ## Results
 
 The analysis includes:
